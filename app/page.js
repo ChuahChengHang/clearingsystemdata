@@ -128,7 +128,7 @@ export default function Home() {
         </section>
 
         <footer className="journal-footer">
-          <small>This was tested on macos 26.3, so please do not slime me if it doesn't work for os that are different.</small>
+          <small>This was tested on macos 26.3, so please do not slime me if it doesn't work for builds that are different.</small>
           <br></br>
           <small>Credits to Copilot & GPT-5 mini which helped me to do the basic template.</small>
           <br></br>
